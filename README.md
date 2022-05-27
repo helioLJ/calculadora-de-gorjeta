@@ -32,8 +32,8 @@ Os usuários devem ser capazes de:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://github.com/helioLJ/calculadora-de-gorjeta)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: https://github.com/helioLJ/calculadora-de-gorjeta
+- Live Site URL: https://calculadora-de-gorjeta.netlify.app/
 
 ## Meu Processo
 
