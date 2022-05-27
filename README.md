@@ -26,8 +26,9 @@ Users should be able to:
 
 ### Screenshot
 
-(/assets/images/Screenshot_desktop.png)
-(/assets/images/Screenshot_mobile.png)
+
+![Screenshot_desktop](https://user-images.githubusercontent.com/42224962/170735046-120621ab-84c1-4a4b-b2b4-890704acee17.png)
+![Screenshot_mobile](https://user-images.githubusercontent.com/42224962/170735055-6425af83-573e-444b-a67b-c8bbdd76af32.png)
 
 ### Links
 
@@ -38,7 +39,8 @@ Users should be able to:
 
 ### Feito com
 
-- Semantic HTML5 markup
+- Semantic HTML5 markup![Uploading Screenshot_desktop.png…]()
+
 - CSS custom properties
 - Flexbox
 - JavaScript
