@@ -39,7 +39,7 @@ Users should be able to:
 
 ### Feito com
 
-- Semantic HTML5 markup![Uploading Screenshot_desktop.png…]()
+- Semantic HTML5 markup
 
 - CSS custom properties
 - Flexbox
@@ -48,5 +48,5 @@ Users should be able to:
 
 ## Author
 
-- Website - [Add your name here](https://github.com/helioLJ)
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/helioLJ)
+- (https://github.com/helioLJ)
+- Frontend Mentor - (https://www.frontendmentor.io/profile/helioLJ)
