@@ -46,7 +46,7 @@ Os usuários devem ser capazes de:
 - JavaScript
 
 
-## Author
+## Autor
 
 - (https://github.com/helioLJ)
 - Frontend Mentor - (https://www.frontendmentor.io/profile/helioLJ)
