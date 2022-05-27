@@ -1,6 +1,6 @@
 # Calculadora de Gorjeta
 
-Esta é uma solução para o [desafio do aplicativo de calculadora de dicas no Frontend Mentor] (https://www.frontendmentor.io/challenges/tip-calculator-app-ugJNGbJUX).
+Esta é uma solução para o [desafio do aplicativo de calculadora de gorjetas no Frontend Mentor] (https://www.frontendmentor.io/challenges/tip-calculator-app-ugJNGbJUX).
 
 ## Índice
 
