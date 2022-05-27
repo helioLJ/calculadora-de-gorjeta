@@ -18,11 +18,11 @@ Esta é uma solução para o [desafio do aplicativo de calculadora de gorjetas n
 
 ### O Desafio
 
-Users should be able to:
+Os usuários devem ser capazes de:
 
-- View the optimal layout for the app depending on their device's screen size
-- See hover states for all interactive elements on the page
-- Calculate the correct tip and total cost of the bill per person
+- Visualize o layout ideal para o aplicativo, dependendo do tamanho da tela do dispositivo
+- Veja os estados de foco para todos os elementos interativos na página
+- Calcule a gorjeta correta e o custo total da conta por pessoa
 
 ### Screenshot
 
